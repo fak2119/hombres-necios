@@ -1,4 +1,4 @@
-# Ed: A Jekyll Theme for Minimal Editions
+# Hombres Necios: A Student's Guide
 
 [![Build Status](https://travis-ci.org/elotroalex/ed.svg?branch=gh-pages)](https://travis-ci.org/elotroalex/ed)
 
