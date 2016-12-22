@@ -79,7 +79,11 @@ float: right;
 
 .floating-box {
 display: inline-block;
-width: 300px
+width: 355px
+}
+
+p.clear {
+    clear: right;
 }
 
 ul {
