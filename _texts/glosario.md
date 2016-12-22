@@ -94,12 +94,4 @@ title: Glosario de recursos poéticos
 <br/>
 * Montesinos, Delia, Gilda Nissenberg, and Martha Escobedo. “Glossary of Literary Terms for the AP Spanish Literature and Culture Course.” New York, NY: The College Board, 2013. Web.
 
-<details>
-<summary>Escribo una pregunta aquí...</summary>
- ¡¡Y escribo la respuesta aquí!!
- <details>
- <summary>Can I do this?</summary>
- We'll find out
- </details>
-</details>
 
