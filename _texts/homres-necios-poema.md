@@ -150,7 +150,7 @@ author: Sor Juana Inés de la Cruz
 <details>
 <summary>¿Cómo se cuentan las sílabas del verso “y a otra por fácil culpáis”?</summary>
  Es un verso agudo con una sinalefa <br/>
- "Y a o / tra / por / fá / cil / cul / páis" (7 + 1 = 8)
+ Y a o / tra / por / fá / cil / cul / páis (7 + 1 = 8)
 </details>
 </div>
 

@@ -4,7 +4,7 @@ title: Reconocimientos
 
 ---
 <br/>
-<h2>Agradecimientos</h2>
+<h2>**Agradecimientos**</h2>
 <br/>
 
 Me gustaría darles gracias a las siguientes personas que ayudaron en el proceso de crear esta edición:
@@ -18,7 +18,7 @@ Me gustaría darles gracias a las siguientes personas que ayudaron en el proceso
 **Stacy Katz** por su ayuda en conseguir fuentes de la bibliografía. 
 
 <br/>
-<h2>Bibliografía</h2>
+<h2>**Bibliografía**</h2>
 <br/>
 Bemberg, María Luisa. Yo, la peor de todas. GEA Cinematográfica, 1990. Film.
 
@@ -53,7 +53,7 @@ Bemberg, María Luisa. Yo, la peor de todas. GEA Cinematográfica, 1990. Film.
 * Villar, Luis M. “The Sor Juana Inés de La Cruz Project.” Dartmouth College. N.p., 2004. Web.
 
 <br/>
-<h2>Para citar esta edición:</h2>
+<h2>**Para citar esta edición:**</h2>
 <br/>
 
 * Kibblewhite, Fiona. *Hombres Necios: A Student's Guide*. New York, NY: Columbia University, 2016. Web.

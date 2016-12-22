@@ -14,7 +14,7 @@ Sor Juana Inés de la Cruz era una filósofa y poeta famosa en México durante e
 <h1>Contexto histórico y cultural</h1>
 
 <p>
-Sor Juana experimentó muchas dificultades por ser mujer durante su vida. En general, la mujer del siglo XVII fue vista como sensible, incapaz de la inteligencia or razonamiento de los hombres. Por eso, la mayoría de las mujeres no eran educadas. Las opciones para una mujer como Sor Juana eran casarse o hacerse monja. Por el contrario, Sor Juana vio estas ideas de la femininidad como una construcción histórica y cultural-- no como una característica relacionada con el sexo biológico.
+Sor Juana experimentó muchas dificultades por ser mujer durante su vida. En general, la mujer del siglo XVII fue vista como sensible, incapaz de la inteligencia or razonamiento de los hombres. Por eso, la mayoría de las mujeres no eran educadas. Las opciones para una mujer como Sor Juana eran casarse o hacerse monja. Por el contrario, Sor Juana vio estas ideas de la feminidad como una construcción histórica y cultural-- no como una característica relacionada con el sexo biológico.
 </p>
 
 
