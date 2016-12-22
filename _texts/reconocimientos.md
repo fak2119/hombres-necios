@@ -18,10 +18,6 @@ Me gustaría darles gracias a las siguientes personas que ayudaron en el proceso
 **Stacy Katz** por su ayuda en conseguir fuentes de la bibliografía. 
 
 <br/>
-<h2>Licencia</h2>
-<br/>
-
-<br/>
 <h2>Bibliografía</h2>
 <br/>
 Bemberg, María Luisa. Yo, la peor de todas. GEA Cinematográfica, 1990. Film.
