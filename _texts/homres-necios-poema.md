@@ -19,7 +19,7 @@ author: Sor Juana Inés de la Cruz
 <div class="floating-box">
 <details>
 <summary>¿Cuál es la idea principal del poema expresada en la primera estrofa?</summary>
- Los hombres critican a las mujeres por lo que ellos mísmos causan que hagan.
+ Los hombres critican a las mujeres por lo que ellos mismos causan que hagan.
 </details>
 </div>
 
