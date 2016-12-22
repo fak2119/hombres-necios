@@ -37,7 +37,7 @@ Por fin, las ediciones digitales ofrecen más maneras de adaptarse a diferentes 
 </p>
 
 <p>
-Como ya mencionado, esta edición no es un perfecto producto final, sino un primer paso con la tecnología. Aunque la tecnología presenta límites, cualquier sugerencia para mejorar este sitio es bienvenida con mucho agradecimiento. Por favor, dirigir sus comentarios a Fiona Kibblewhite. 
+Como ya mencionado, esta edición no es un perfecto producto final, sino un primer paso con la tecnología. Aunque la tecnología presenta límites, cualquier sugerencia para mejorar este sitio es bienvenida con mucho agradecimiento. Por favor, dirigir sus comentarios a <a href="mailto:fiona.kibblewhite@columbia.edu">Fiona Kibblewhite</a>. 
 </p>
 
 <p>
