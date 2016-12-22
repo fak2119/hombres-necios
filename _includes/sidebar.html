@@ -9,8 +9,15 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Página Principal</a>
 
+
+    <!-- The code below is used for manually entered links  -->
+<a class="sidebar-nav-item" href="https://fak2119.github.io/hombres-necios/texts/homres-necios-poema/" target="_blank">Hombres necios que acusáis: Poema</a>
+<a class="sidebar-nav-item" href="https://fak2119.github.io/hombres-necios/texts/contexto/" target="_blank">Contexto</a>
+<a class="sidebar-nav-item" href="https://fak2119.github.io/hombres-necios/texts/glosario/" target="_blank">Glosario de recursos poéticos</a>
+<a class="sidebar-nav-item" href="https://fak2119.github.io/hombres-necios/texts/sobre-el-proyecto/" target="_blank">Sobre el proyecto</a>
+<a class="sidebar-nav-item" href="https://fak2119.github.io/hombres-necios/texts/reconocimientos/" target="_blank">Reconocimientos</a>    
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -24,15 +31,6 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-
-    <!-- The code below is used for manually entered links  -->
-
-    <a class="sidebar-nav-item" href="https://via.hypothes.is/{{ site.url }}{{ site.baseurl }}{{ page.url }}">Annotate me</a>
-    <a class="sidebar-nav-item" href="https://github.com/elotroalex/ed" target="_blank">GitHub project</a>
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
-  <div class="sidebar-item">
-    <p>Distributed with an MIT license.</p>
-  </div>
 </div>
