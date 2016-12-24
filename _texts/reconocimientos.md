@@ -11,7 +11,7 @@ Me gustaría darles gracias a las siguientes personas que ayudaron en el proceso
 
 **Patricia Grieve** por su enseñanza del curso *Hispanic Cultures I* y por dejarme crear esta edición digital para mi proyecto final.
 
-**Alex Gil Fuentes** por ayudarme con la creación del sitio y por todos sus consejos frente las cuestiones tecnológicas del proyecto.
+**Alex Gil Fuentes** por ayudarme con la creación del sitio y por todos sus consejos frente a las cuestiones tecnológicas del proyecto.
 
 **Angela Thomas** por su enseñanza del curso *AP Spanish Literature and Culture* y los materiales que ella ofreció.
 
