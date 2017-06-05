@@ -13,11 +13,11 @@ Uno de los primeros objetivos de los estudiantes al estudiar un poema en otro id
 </p>
 
 <p>
-En una edición digital, este problema puede ser resuelto con el uso de los hipervínculos. En esta edición, se puede hacer clic en cualquier palabra del poema, y una traducción abre en otra ventana. De esta manera, los estudiantes no ven las definiciones que no necesitan, pero tiene acceso fácil a las que sí necesitan, más que podrían ser ofrecidas en una edición impresa. Ya que todas abren en una nueva ventana, el estudiante puede volver al texto fácilmente sin perder su lugar.
+En una edición digital, este problema puede ser resuelto con el uso de los hipervínculos. En esta edición, se puede hacer clic en cualquier palabra del poema, y una traducción abre en otra ventana. De esta manera, los estudiantes no ven las definiciones que no necesitan, pero tienen acceso fácil a las que sí necesitan, más que podrían ser ofrecidas en una edición impresa. Ya que todas abren en una nueva ventana, el estudiante puede volver al texto fácilmente sin perder su lugar.
 </p>
 
 <p>
-Aunque los estudiantes comprendan las palabras individuales, no necesariamente comprenden todo el contenido del poema. Por esta razón, el poema de esta edición tiene preguntas en el margen para guiar la lectura. Los libros de texto impresos también pueden tener preguntas así, pero la tecnología permite características interactivas para descubrir las respuestas. Muchos libros no incluyen las respuestas en las ediciones de los estudiantes, o las ponen en una página al final de libro. Si no hay respuestas, puede causar confusión para el estudiante que lee el poema por su cuenta, y si las repuestas están en otro lugar, interrumpe la lectura y por eso, muchos estudiantes no toman el tiempo de buscarlas.
+Aunque los estudiantes comprendan las palabras individuales, no necesariamente comprenden todo el contenido del poema. Por esta razón, el poema de esta edición tiene preguntas en el margen para guiar la lectura. Los libros de texto impresos también pueden tener preguntas así, pero la tecnología permite características interactivas para descubrir las respuestas. Muchos libros no incluyen las respuestas en las ediciones de los estudiantes, o las ponen en una página al final del libro. Si no hay respuestas, puede causar confusión para el estudiante que lee el poema por su cuenta, y si las repuestas están en otro lugar, interrumpe la lectura y por eso, muchos estudiantes no toman el tiempo de buscarlas.
 </p>
 
 <p>
